@@ -35,4 +35,7 @@ This launch file uses the nodes found in:
 4) Publish in the topic '/command' the string "next". The robot will start moving autonomously to each point, and retrieving the WiFi signal strength in each point.
 
 ### Demo
-TO BE MADE
+[![YouTube video demo](https://img.youtube.com/vi/JihOmws5eDw/0.jpg)](https://www.youtube.com/watch?v=JihOmws5eDw)
+
+
+
