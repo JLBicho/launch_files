@@ -11,7 +11,7 @@ This launch file uses the nodes found in:
 
 - explotation: https://github.com/JLBicho/exploration
 - move_wp: https://github.com/JLBicho/move_wp
-- wifi_mapping: TO BE UPLOADED
+- wifi_mapping: https://github.com/JLBicho/wifi_mapping
 
 ### PC
 `roscore`
@@ -34,4 +34,5 @@ This launch file uses the nodes found in:
 
 4) Publish in the topic '/command' the string "next". The robot will start moving autonomously to each point, and retrieving the WiFi signal strength in each point.
 
-
+### Demo
+TO BE MADE
