@@ -1,6 +1,9 @@
 # launch_files
 Aggregate of launch files for different projects
 
+## Tested in:
+- ROS Kinetic
+- Turtlebot3
 
 # wifi_in_zone.launch
 
@@ -9,10 +12,6 @@ This launch file uses the nodes found in:
 - explotation: https://github.com/JLBicho/exploration
 - move_wp: https://github.com/JLBicho/move_wp
 - wifi_mapping: TO BE UPLOADED
-
-## Tested in:
-- ROS Kinetic
-- Turtlebot3
 
 ### PC
 `roscore`
