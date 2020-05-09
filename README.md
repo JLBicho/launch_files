@@ -6,10 +6,10 @@ Aggregate of launch files for different projects
 - Turtlebot3
 
 ## Index
-1. wifi_in_zone
-2. save_and_load_path **(TO DO)**
+1. [WiFi in zone](#wifi-in-zone)
+2. [Save and load path](#save-and-load-path) **(TO DO)**
 
-# 1. wifi_in_zone.launch
+# WiFi in zone
 This launch file uses the nodes found in: 
 
 - exploration: https://github.com/JLBicho/exploration
@@ -40,7 +40,8 @@ This launch file uses the nodes found in:
 ### Demo
 [![YouTube video demo](https://img.youtube.com/vi/JihOmws5eDw/0.jpg)](https://www.youtube.com/watch?v=JihOmws5eDw)
 
-# 2. save_and_load_path.launch (In progress)
+# Save and load path
+### (In progress)
 This launch file uses the nodes found in: 
 
 - move_wp: https://github.com/JLBicho/move_wp
