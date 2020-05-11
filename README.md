@@ -7,7 +7,7 @@ Aggregate of launch files for different projects
 
 ## Index
 1. [WiFi in zone](#wifi-in-zone)
-2. [Save and load path](#save-and-load-path) **(TO DO)**
+2. [Save and load path](#save-and-load-path)
 
 # WiFi in zone
 This launch file uses the nodes found in: 
@@ -60,4 +60,4 @@ This launch file uses the nodes found in:
 1) 
 
 ### Demo
-
+[![YouTube video demo](https://img.youtube.com/vi/WrC5S0jUaw/0.jpg)](https://www.youtube.com/watch?v=WrC5S0jUaw)
